@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  cid: 1
+  date_of_birth: 2025-01-07
+
+two:
+  name: MyString
+  cid: 1
+  date_of_birth: 2025-01-07

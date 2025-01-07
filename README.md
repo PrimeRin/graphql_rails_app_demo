@@ -1,24 +1,27 @@
-# README
+### Demo GraphQL Ruby API Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project demonstrates how to set up a GraphQL API using Ruby on Rails, allowing clients to perform CRUD (Create, Read, Update, Delete) operations on Book records.
 
-Things you may want to cover:
+#### Prerequisites
+Ensure you have the following installed:
 
-* Ruby version
+- Ruby: Version 2.3.0 or higher.
+- Rails: Version 5.2 or higher.
+- Bundler: For managing Ruby gems.
 
-* System dependencies
+#### Installation
+1. Clone the Repository:
 
-* Configuration
+```
+git clone https://github.com/yourusername/graphql-ruby-api.git
+```
 
-* Database creation
+#### Graphql Installation
 
-* Database initialization
 
-* How to run the test suite
+#### Graphql CRUD Demo
+1. Generate graphql book object
+```
+rails generate graphql:object book
+```
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
